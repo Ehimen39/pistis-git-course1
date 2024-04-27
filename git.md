@@ -5,3 +5,4 @@
 - `git add`
 - `git commit -m "<your commit message>"`
 - `git push`
+- `git push --set-upstream origin <name-of-new-brancg>`
